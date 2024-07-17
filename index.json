@@ -1,0 +1,50 @@
+[
+{
+	"uri": "//localhost:1313/",
+	"title": "Create a Spring Boot project",
+	"tags": [],
+	"description": "",
+	"content": "Create a Spring Boot project Content Introduction to Spring Boot How to create "
+},
+{
+	"uri": "//localhost:1313/1-introduce/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Introduction to Spring Boot Spring Boot is a powerful framework designed to simplify the development of Java applications, particularly those built using the Spring framework. By streamlining the configuration and deployment process, Spring Boot allows developers to focus on building robust, scalable, and production-ready applications with minimal boilerplate code and configuration\n"
+},
+{
+	"uri": "//localhost:1313/2-create/2.1-web/",
+	"title": "Web",
+	"tags": [],
+	"description": "",
+	"content": "Create on web Access Spring initializr\nAccess link to create project Set up as below Add dependencies Download\nSelect Generate Unzip the file after downloaded Open Intellij\nOpen the file that unziped "
+},
+{
+	"uri": "//localhost:1313/2-create/",
+	"title": "Create",
+	"tags": [],
+	"description": "",
+	"content": "Create project In this step, we will create a Spring Boot project\nContent Create on web Create on Intellij "
+},
+{
+	"uri": "//localhost:1313/2-create/2.2-intellij/",
+	"title": "Intellij",
+	"tags": [],
+	"description": "",
+	"content": "Create on Intellij Select New Project Set up\nSelect generator: Spring initializr Name the project Select type: Maven Choose Next Add dependencies\nAdd suitable dependencies Choose Create "
+},
+{
+	"uri": "//localhost:1313/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
